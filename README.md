@@ -6,7 +6,7 @@ O objetivo deste projeto é implementar uma solução robusta de autenticação 
 
 ## Modelagem de Domínio - Entidades
 
-### Usuário
+### Usuário 
 
 Representa um indivíduo que pode acessar o sistema. Cada usuário pode ter múltiplos perfis, e suas permissões são derivadas dos perfis atribuídos. Para a entidade **Usuário**, alguns atributos básicos são essenciais para identificar e gerenciar um usuário dentro do sistema de autenticação e autorização.
 
