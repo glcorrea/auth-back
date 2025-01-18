@@ -6,7 +6,7 @@ O objetivo deste projeto é implementar uma solução robusta de autenticação 
 
 ## Modelagem de Domínio - Entidades
 
-### Usuário
+### Usuário 
 
 Representa um indivíduo que pode acessar o sistema. Cada usuário pode ter múltiplos perfis, e suas permissões são derivadas dos perfis atribuídos. Para a entidade **Usuário**, alguns atributos básicos são essenciais para identificar e gerenciar um usuário dentro do sistema de autenticação e autorização.
 
@@ -116,3 +116,8 @@ Esses atributos fornecem informações essenciais para o controle detalhado das 
 
 - [RBAC versus ABAC: qual você deve usar?](https://www.keepersecurity.com/blog/pt-br/2024/10/28/rbac-vs-abac-which-should-you-use/#:~:text=A%20diferen%C3%A7a%20mais%20%C3%B3bvia%20entre,nos%20atributos%20de%20um%20usu%C3%A1rio.)
 - [Role-based access control (RBAC) vs. Attribute-based access control (ABAC)](https://www.youtube.com/watch?v=rvZ35YW4t5k)
+
+
+### Definições Técnicas do Projeto
+
+[projeto autenticação.pdf](https://github.com/user-attachments/files/18142855/projeto.autenticacao.pdf)
